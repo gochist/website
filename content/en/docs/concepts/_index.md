@@ -26,7 +26,7 @@ Once you've set your desired state, the *Kubernetes Control Plane* makes the clu
 
 ## Kubernetes objects
 
-Kubernetes contains a number of abstractions that represent the state of your system: deployed containerized applications and workloads, their associated network and disk resources, and other information about what your cluster is doing. These abstractions are represented by objects in the Kubernetes API. See [Understanding Kubernetes objects](/docs/concepts/overview/working-with-objects/kubernetes-objects/#kubernetes-objects) for more details.
+Kubernetes contains a number of abstractions that represent the state of your system: deployed containerized applications and workloads, their associated network and disk resources, and other information about what your cluster is doing. These abstractions are represented by objects in the Kubernetes API. See [Understanding Kubernetes objects](/docs/concepts/overview/working-with-objects/kubernetes-objects/#kubernetes-objects) for more details...
 
 The basic Kubernetes objects include:
 
